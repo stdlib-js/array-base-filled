@@ -71,9 +71,7 @@
     "allocate",
     "alloc",
     "fill",
-    "filled",
-    "zeros",
-    "ones"
+    "filled"
   ],
   "funding": {
     "type": "patreon",
