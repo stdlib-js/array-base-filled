@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import filled from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-filled/tags). For example,
+
+```javascript
 import filled from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled@v0.2.0-deno/mod.js';
 ```
 
@@ -85,7 +90,7 @@ var out = filled( 0.0, 3 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import filled from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled@v0.2.0-deno/mod.js';
+import filled from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled@deno/mod.js';
 
 var out = filled( 0.0, 3 );
 // returns [ 0.0, 0.0, 0.0 ]
