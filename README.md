@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import filled from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled@deno/mod.js';
+import filled from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled@v0.2.2-deno/mod.js';
 ```
 
 #### filled( value, len )
@@ -85,7 +85,7 @@ var out = filled( 0.0, 3 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import filled from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled@deno/mod.js';
+import filled from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled@v0.2.2-deno/mod.js';
 
 var out = filled( 0.0, 3 );
 // returns [ 0.0, 0.0, 0.0 ]
