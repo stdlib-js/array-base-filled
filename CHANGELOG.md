@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-12-09)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`e823a35`](https://github.com/stdlib-js/stdlib/commit/e823a3537257e5bfb6f0c59cb983fd8ca7752ff2) - **bench:** refactor to use string interpolation in `array/base/filled` [(#8900)](https://github.com/stdlib-js/stdlib/pull/8900) _(by Rohit R Bhat, Athan Reines)_
 -   [`975147f`](https://github.com/stdlib-js/stdlib/commit/975147f3125c786ec1672acb3d2564ca16eaa790) - **docs:** fix TSDoc lint errors _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +25,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
+-   Rohit R Bhat
 
 </section>
 
